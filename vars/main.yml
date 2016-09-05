@@ -1,0 +1,4 @@
+---
+# vars file for ansible-htop
+htop_packages:
+  - htop
